@@ -66,3 +66,23 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+====================================
+Comando Inicar Projeto ReactJS Web
+yarn create react-app frontend
+
+Importando imagem de fundo na tela
+*Alterar CSS
+
+* Importar font roboto no projeto
+* Criar estilo da pagina de login do spot
+* Criar html no conponente App() para o form de login
+
+Instalar o Axios lib de chamada a Api's: yarn add axios
+* Criar pasta service
+* Criar api.js
+* importar api no componente App()
+* Importando o atributo {useState} no import do react no App.js
+* Criando função handlesSubmit e colocando no form
+
+Adicionando Sistema de rotas com react-router-dom
