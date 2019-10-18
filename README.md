@@ -85,4 +85,7 @@ Instalar o Axios lib de chamada a Api's: yarn add axios
 * Importando o atributo {useState} no import do react no App.js
 * Criando função handlesSubmit e colocando no form
 
-Adicionando Sistema de rotas com react-router-dom
+Adicionando Sistema de rotas com react-router-dom (redirecionamento de páginas)
+* Criar arquivo routes.js
+* Criar pasta Page e cada página com sua pasta.
+* Importar cada pagina no route do react
