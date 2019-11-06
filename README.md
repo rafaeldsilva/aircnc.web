@@ -89,3 +89,5 @@ Adicionando Sistema de rotas com react-router-dom (redirecionamento de páginas)
 * Criar arquivo routes.js
 * Criar pasta Page e cada página com sua pasta.
 * Importar cada pagina no route do react
+
+Adicionando lib socket.io - client
